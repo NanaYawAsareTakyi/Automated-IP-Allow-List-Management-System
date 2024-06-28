@@ -30,7 +30,7 @@ Planning, developing, and executing a project from concept to implementation.
 Applying principles of cybersecurity to protect sensitive information and ensure compliance with organizational policies.
 
 ## Tools Used
-##### Python
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 
 ## Workflow
 #### Open Allow List Document:
